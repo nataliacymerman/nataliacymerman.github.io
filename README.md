@@ -1,2 +1,3 @@
-# nataliacymerman.pl
+# nataliacymerman.github.io
+
 my web portfolio 
