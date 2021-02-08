@@ -1,2 +1,2 @@
-# natalia-cymerman-portfolio.io
+# nataliacymerman.pl
 my web portfolio 
