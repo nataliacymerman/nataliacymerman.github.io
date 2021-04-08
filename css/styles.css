@@ -14,6 +14,7 @@ h1,h2, .skills-list {
 }
 
 img{
+  /* this is limiting the width of the image so it takes 100% af the parent maximum */
   max-width: 100%;
 }
 
@@ -57,11 +58,10 @@ nav li a:hover{
 }
 
 header {
-  top: 100px;
-  margin-bottom: 100
+  top: 70px;
   position: relative;
   margin-bottom: 220px;
-  background-color: #fff;
+  background-image: url("../img/tlo_kolor.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: -365px;
